@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/Users/nikolvasileva/Desktop/Front-end projects/Random Joke Generator/resource/abstract-background-with-wavy-forms-dots-b.png");
+    background-image: url("abstract-background-with-wavy-forms-dots-b.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
