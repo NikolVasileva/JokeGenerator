@@ -22,4 +22,5 @@ The application sends an HTTP GET request to the API to fetch a random joke.<br>
 The joke is displayed on the page.<br>
 If an error occurs, a fallback message is shown instead.<br>
 
-Link: <a href="https://nikolvasileva.github.io/JokeGenerator/">https://nikolvasileva.github.io/JokeGenerator/</a>
+Link: <a href="https://nikolvasileva.github.io/JokeGenerator/">https://nikolvasileva.github.io/JokeGenerator/</a><br>
+💼 Connect with me on <a href="https://2ly.link/23Pyp">LinkedIn</a>
