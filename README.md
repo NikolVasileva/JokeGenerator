@@ -21,3 +21,5 @@ The user clicks the "Get a Joke" button.<br>
 The application sends an HTTP GET request to the API to fetch a random joke.<br>
 The joke is displayed on the page.<br>
 If an error occurs, a fallback message is shown instead.<br>
+
+Link: <a href="https://nikolvasileva.github.io/JokeGenerator/">https://nikolvasileva.github.io/JokeGenerator/</a>
